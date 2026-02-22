@@ -1,0 +1,162 @@
+[
+  {
+    "id": "floral-meadow-warm-01",
+    "name": "Loose Garden Meadow",
+    "section": "florals",
+    "axis_tags": {
+      "floral_form": "meadow",
+      "temperature": "warm",
+      "formality": [1, 3]
+    },
+    "native_formality": 2,
+    "key_flowers": ["Garden roses", "Peonies", "Sweet peas", "Ranunculus", "Anemones"],
+    "foliage": ["Eucalyptus", "Ferns", "Trailing ivy", "Jasmine vine"],
+    "arrangement_style": "Loose, gathered, asymmetrical — as if just picked from the garden",
+    "density": "medium",
+    "compatibility": {
+      "prohibited_tags": ["architectural", "restrained"],
+      "required_tags": [],
+      "notes": "Soft Romantic Garden primary floral"
+    }
+  },
+  {
+    "id": "floral-meadow-warm-02",
+    "name": "Wildflower & Herb Meadow",
+    "section": "florals",
+    "axis_tags": {
+      "floral_form": "meadow",
+      "temperature": "warm",
+      "formality": [1, 2]
+    },
+    "native_formality": 1,
+    "key_flowers": ["Cosmos", "Yarrow", "Chamomile", "Scabiosa", "Ammi"],
+    "foliage": ["Olive branch", "Sage", "Rosemary", "Wild grasses"],
+    "arrangement_style": "Airy, trailing, with visible stems — minimal floral tape",
+    "density": "airy",
+    "compatibility": {
+      "prohibited_tags": ["architectural", "expressive", "cool"],
+      "required_tags": [],
+      "notes": "Earthy Textural Warmth; very low formality"
+    }
+  },
+  {
+    "id": "floral-meadow-cool-01",
+    "name": "Blue & White Garden",
+    "section": "florals",
+    "axis_tags": {
+      "floral_form": "meadow",
+      "temperature": "cool",
+      "formality": [2, 3]
+    },
+    "native_formality": 2,
+    "key_flowers": ["Delphinium", "Anemones", "White ranunculus", "Tweedia", "Scabiosa"],
+    "foliage": ["Eucalyptus", "Silver brunia", "Dusty miller"],
+    "arrangement_style": "Loose and organic, cool-toned throughout — no warm tones introduced",
+    "density": "medium",
+    "compatibility": {
+      "prohibited_tags": ["warm", "restrained"],
+      "required_tags": [],
+      "notes": "Cool meadow; balanced mood"
+    }
+  },
+  {
+    "id": "floral-sculptural-cool-01",
+    "name": "Architectural Sculptural",
+    "section": "florals",
+    "axis_tags": {
+      "floral_form": "sculptural",
+      "temperature": "cool",
+      "formality": [2, 4]
+    },
+    "native_formality": 3,
+    "key_flowers": ["Protea", "Anthurium", "Calla lily", "Orchid stems", "Heliconia"],
+    "foliage": ["Monstera leaf", "Banana leaf", "Steel grass", "Aspidistra"],
+    "arrangement_style": "Single-stem focus, intentional negative space, sculptural silhouettes",
+    "density": "airy",
+    "compatibility": {
+      "prohibited_tags": ["organic", "warm"],
+      "required_tags": [],
+      "notes": "Architectural Minimal primary floral"
+    }
+  },
+  {
+    "id": "floral-sculptural-neutral-01",
+    "name": "Editorial Mixed Form",
+    "section": "florals",
+    "axis_tags": {
+      "floral_form": "sculptural",
+      "temperature": "neutral",
+      "formality": [2, 4]
+    },
+    "native_formality": 3,
+    "key_flowers": ["Dried pampas grass", "Craspedia (Billy balls)", "Leucadendron", "Lunaria"],
+    "foliage": ["Dried palm spear", "Eucalyptus pods", "Cotton stems"],
+    "arrangement_style": "Graphic, mixed dried and fresh — strong silhouette from any angle",
+    "density": "airy",
+    "compatibility": {
+      "prohibited_tags": ["organic"],
+      "required_tags": [],
+      "notes": "Bold Graphic Editorial floral direction"
+    }
+  },
+  {
+    "id": "floral-sculptural-warm-01",
+    "name": "Organic Sculptural",
+    "section": "florals",
+    "axis_tags": {
+      "floral_form": "sculptural",
+      "temperature": "warm",
+      "formality": [2, 4]
+    },
+    "native_formality": 3,
+    "key_flowers": ["Protea King", "Banksia", "Hellebore", "Fritillaria"],
+    "foliage": ["Magnolia branch", "Copper beech", "Olive branch"],
+    "arrangement_style": "Organic but intentional — each stem placed with purpose, no filler",
+    "density": "airy",
+    "compatibility": {
+      "prohibited_tags": [],
+      "required_tags": [],
+      "notes": "Warm sculptural; bridges earthy and architectural"
+    }
+  },
+  {
+    "id": "floral-dome-cool-01",
+    "name": "Classic White Rose Dome",
+    "section": "florals",
+    "axis_tags": {
+      "floral_form": "classic_dome",
+      "temperature": "cool",
+      "formality": [4, 5]
+    },
+    "native_formality": 5,
+    "key_flowers": ["White garden roses", "White peonies", "Gardenias", "White hydrangea"],
+    "foliage": ["Stephanotis", "Ruscus", "Lily of the valley"],
+    "arrangement_style": "Full symmetrical dome, lush and perfectly round — classic formal centerpiece",
+    "density": "lush",
+    "compatibility": {
+      "prohibited_tags": ["organic", "restrained", "minimal"],
+      "required_tags": [],
+      "notes": "Refined Black Tie primary floral"
+    }
+  },
+  {
+    "id": "floral-dome-warm-01",
+    "name": "Garden Rose & Peony Dome",
+    "section": "florals",
+    "axis_tags": {
+      "floral_form": "classic_dome",
+      "temperature": "warm",
+      "formality": [3, 5]
+    },
+    "native_formality": 4,
+    "key_flowers": ["Garden roses (blush, dusty pink)", "Peonies", "Ranunculus", "Sweet William"],
+    "foliage": ["Eucalyptus", "Smilax vine", "Variegated ivy"],
+    "arrangement_style": "Lush dome with soft trailing edges — formal but with romantic warmth",
+    "density": "lush",
+    "compatibility": {
+      "prohibited_tags": ["restrained", "minimal"],
+      "required_tags": [],
+      "notes": "Warm formal dome; Soft Romantic Garden elevated"
+    }
+  }
+]

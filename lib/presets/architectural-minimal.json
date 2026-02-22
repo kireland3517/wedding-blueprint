@@ -1,0 +1,22 @@
+{
+  "id": "architectural-minimal",
+  "name": "Architectural Minimal",
+  "tagline": "Cool-toned, intentional, sculptural restraint.",
+  "axisVector": {
+    "formality": 3,
+    "mood": "restrained",
+    "texture": "minimal",
+    "temperature": "cool",
+    "shape": "architectural",
+    "floral_form": "sculptural",
+    "metal": "cool",
+    "light": "airy"
+  },
+  "avoid_summary": [
+    "Soft pastels or anything romantically warm",
+    "Ornate scripts or calligraphy",
+    "Rustic textures (linen, reclaimed wood)",
+    "Symmetrical floral domes",
+    "Warm metals (gold, brass)"
+  ]
+}

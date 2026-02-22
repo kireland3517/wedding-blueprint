@@ -1,0 +1,22 @@
+{
+  "id": "refined-black-tie",
+  "name": "Refined Black Tie",
+  "tagline": "Traditional elegance, symmetry, formal richness.",
+  "axisVector": {
+    "formality": 5,
+    "mood": "balanced",
+    "texture": "rich",
+    "temperature": "cool",
+    "shape": "balanced",
+    "floral_form": "classic_dome",
+    "metal": "cool",
+    "light": "layered"
+  },
+  "avoid_summary": [
+    "Playful or asymmetric layouts",
+    "Acrylic, neon, or casual signage materials",
+    "Rustic or raw textures",
+    "Meadow-style or wildflower arrangements",
+    "Mixed or warm metal finishes"
+  ]
+}

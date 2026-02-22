@@ -1,0 +1,148 @@
+[
+  {
+    "id": "paper-minimal-01",
+    "name": "90lb Smooth Matte + Digital Offset",
+    "section": "paper_print",
+    "axis_tags": {
+      "formality": [1, 3],
+      "texture": "minimal"
+    },
+    "stock": "Mohawk Superfine Smooth",
+    "weight": "90lb text (135gsm)",
+    "technique": ["Digital offset printing", "Flat printing"],
+    "finishes": ["Matte coating", "No embellishment"],
+    "compatibility": {
+      "prohibited_tags": ["rich", "expressive"],
+      "required_tags": [],
+      "notes": "Clean, architectural. Let the typography do the work."
+    }
+  },
+  {
+    "id": "paper-minimal-02",
+    "name": "110lb Uncoated + Blind Deboss",
+    "section": "paper_print",
+    "axis_tags": {
+      "formality": [2, 4],
+      "texture": "minimal"
+    },
+    "stock": "Mohawk Superfine Ultrawhite",
+    "weight": "110lb cover (298gsm)",
+    "technique": ["Flat printing", "Blind deboss (one element only)"],
+    "finishes": ["Uncoated matte", "Single blind deboss"],
+    "compatibility": {
+      "prohibited_tags": ["rich"],
+      "required_tags": [],
+      "notes": "Restrained luxury — texture through impression, not decoration"
+    }
+  },
+  {
+    "id": "paper-layered-01",
+    "name": "130lb Cotton + Letterpress",
+    "section": "paper_print",
+    "axis_tags": {
+      "formality": [2, 4],
+      "texture": "layered"
+    },
+    "stock": "Crane Lettra Florescent White",
+    "weight": "110lb cover / 300gsm",
+    "technique": ["Letterpress", "1–2 ink colors"],
+    "finishes": ["Deckled edge optional", "Silk ribbon band"],
+    "compatibility": {
+      "prohibited_tags": ["minimal"],
+      "required_tags": [],
+      "notes": "Soft Romantic Garden territory — tactile without being heavy"
+    }
+  },
+  {
+    "id": "paper-layered-02",
+    "name": "Cotton Rag + Foil + Letterpress",
+    "section": "paper_print",
+    "axis_tags": {
+      "formality": [3, 5],
+      "texture": "layered"
+    },
+    "stock": "Crane Lettra Pearl White",
+    "weight": "220gsm",
+    "technique": ["Letterpress", "Foil stamping (1 accent color)"],
+    "finishes": ["Debossed crest or monogram", "Vellum belly band"],
+    "compatibility": {
+      "prohibited_tags": ["minimal", "restrained"],
+      "required_tags": [],
+      "notes": "Elevated layered — appropriate for semi-formal to formal"
+    }
+  },
+  {
+    "id": "paper-layered-03",
+    "name": "Textured Linen + Thermography",
+    "section": "paper_print",
+    "axis_tags": {
+      "formality": [2, 3],
+      "texture": "layered",
+      "temperature": "warm"
+    },
+    "stock": "French Paper Speckletone Kraft",
+    "weight": "100lb text (148gsm)",
+    "technique": ["Thermography", "Digital offset"],
+    "finishes": ["Natural linen texture", "Twine tie"],
+    "compatibility": {
+      "prohibited_tags": ["minimal", "cool", "architectural"],
+      "required_tags": [],
+      "notes": "Earthy Textural Warmth direction"
+    }
+  },
+  {
+    "id": "paper-rich-formal-01",
+    "name": "300gsm Cotton + Engraving",
+    "section": "paper_print",
+    "axis_tags": {
+      "formality": [4, 5],
+      "texture": "rich"
+    },
+    "stock": "Crane & Co. Ecruwhite",
+    "weight": "300gsm (heavy)",
+    "technique": ["Engraving (traditional intaglio)", "Blind emboss crest"],
+    "finishes": ["Tissue liner", "Formal envelope lining", "Wax seal"],
+    "compatibility": {
+      "prohibited_tags": ["minimal", "organic"],
+      "required_tags": [],
+      "notes": "Refined Black Tie — the gold standard of wedding stationery"
+    }
+  },
+  {
+    "id": "paper-rich-formal-02",
+    "name": "220gsm Cotton + Foil + Die Cut",
+    "section": "paper_print",
+    "axis_tags": {
+      "formality": [3, 5],
+      "texture": "rich"
+    },
+    "stock": "Mohawk Via Vellum",
+    "weight": "220gsm",
+    "technique": ["Foil stamping (gold, silver, or rose gold)", "Die cut edge or shape"],
+    "finishes": ["Custom die cut corners or full shape", "Foil on key elements"],
+    "compatibility": {
+      "prohibited_tags": ["minimal"],
+      "required_tags": [],
+      "notes": "Bold Graphic Editorial or Black Tie variant"
+    }
+  },
+  {
+    "id": "paper-rich-warm-01",
+    "name": "Handmade Cotton + Letterpress + Wax",
+    "section": "paper_print",
+    "axis_tags": {
+      "formality": [2, 4],
+      "texture": "rich",
+      "temperature": "warm"
+    },
+    "stock": "Handmade Indian cotton rag",
+    "weight": "250–280gsm (handmade weight varies)",
+    "technique": ["Letterpress", "1 ink color"],
+    "finishes": ["Deckled all four edges", "Wax seal on envelope", "Dried flower pressed sprig"],
+    "compatibility": {
+      "prohibited_tags": ["minimal", "cool", "architectural"],
+      "required_tags": [],
+      "notes": "Soft Romantic Garden or Earthy Textural Warmth high-end"
+    }
+  }
+]

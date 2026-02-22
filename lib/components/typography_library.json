@@ -1,0 +1,202 @@
+[
+  {
+    "id": "typo-arch-restrained-01",
+    "name": "Neue Haas Grotesk + Cormorant",
+    "section": "typography",
+    "axis_tags": {
+      "formality": [2, 4],
+      "mood": "restrained",
+      "shape": "architectural",
+      "temperature": "cool"
+    },
+    "heading_font": "Neue Haas Grotesk Display",
+    "body_font": "Cormorant Garamond",
+    "accent_font": null,
+    "hierarchy_notes": [
+      "Headings: Neue Haas Grotesk Display, uppercase tracking +200, weight 500",
+      "Body: Cormorant Garamond Regular 16/26 — the serif provides warmth to the cold sans heading",
+      "Labels and details: Neue Haas Grotesk Text, weight 400, small caps",
+      "No script or handwritten fonts — restraint is the point"
+    ],
+    "compatibility": {
+      "prohibited_tags": ["organic", "expressive", "warm"],
+      "required_tags": [],
+      "notes": "Architectural Minimal primary typography"
+    }
+  },
+  {
+    "id": "typo-arch-restrained-02",
+    "name": "Aktiv Grotesk + Nothing (mono-font)",
+    "section": "typography",
+    "axis_tags": {
+      "formality": [2, 3],
+      "mood": "restrained",
+      "shape": "architectural",
+      "temperature": "neutral"
+    },
+    "heading_font": "Aktiv Grotesk Extended",
+    "body_font": "Aktiv Grotesk",
+    "accent_font": null,
+    "hierarchy_notes": [
+      "Single typeface family — all hierarchy achieved through weight and size alone",
+      "Headings: Extended Bold, size contrast 3:1 vs body",
+      "Body: Regular, generous line height 1.7",
+      "Dates/details: Condensed Light, uppercase — clean and structural"
+    ],
+    "compatibility": {
+      "prohibited_tags": ["organic", "expressive", "rich", "warm"],
+      "required_tags": [],
+      "notes": "Maximum restraint — mono-font system"
+    }
+  },
+  {
+    "id": "typo-formal-balanced-01",
+    "name": "Bodoni MT + Gill Sans",
+    "section": "typography",
+    "axis_tags": {
+      "formality": [4, 5],
+      "mood": "balanced",
+      "shape": "balanced",
+      "temperature": "cool"
+    },
+    "heading_font": "Bodoni MT",
+    "body_font": "Gill Sans",
+    "accent_font": null,
+    "hierarchy_notes": [
+      "Headings: Bodoni MT Bold — maximum contrast strokes signal formality",
+      "Body: Gill Sans Regular — humanist sans softens the rigidity of Bodoni",
+      "Formal rules apply: centered layouts, generous letter-spacing on names",
+      "Avoid script — this pairing is already expressive in its structure"
+    ],
+    "compatibility": {
+      "prohibited_tags": ["organic", "restrained", "minimal"],
+      "required_tags": [],
+      "notes": "Refined Black Tie primary typography"
+    }
+  },
+  {
+    "id": "typo-formal-balanced-02",
+    "name": "Playfair Display + Lato",
+    "section": "typography",
+    "axis_tags": {
+      "formality": [3, 5],
+      "mood": "balanced",
+      "shape": "balanced",
+      "temperature": "neutral"
+    },
+    "heading_font": "Playfair Display",
+    "body_font": "Lato",
+    "accent_font": null,
+    "hierarchy_notes": [
+      "Playfair Display Italic for names and venue — the swash characters add elegance",
+      "Playfair Display Regular for header blocks — formal and readable",
+      "Lato Light for all detail text — clean contrast to the expressive serif",
+      "Avoid using Playfair Display Bold — it reads heavy at this formality level"
+    ],
+    "compatibility": {
+      "prohibited_tags": ["restrained", "minimal"],
+      "required_tags": [],
+      "notes": "Classic elegant pairing; broad formality range"
+    }
+  },
+  {
+    "id": "typo-organic-balanced-01",
+    "name": "Cormorant Garamond + Dancing Script",
+    "section": "typography",
+    "axis_tags": {
+      "formality": [2, 4],
+      "mood": "balanced",
+      "shape": "organic",
+      "temperature": "warm"
+    },
+    "heading_font": "Cormorant Garamond",
+    "body_font": "Cormorant Garamond",
+    "accent_font": "Dancing Script",
+    "hierarchy_notes": [
+      "Cormorant Garamond Italic for primary headings — delicate and romantic",
+      "Cormorant Garamond Regular for body text — unified family, varied weight",
+      "Dancing Script for names, 'and', and key accent phrases only — not full lines",
+      "Keep script use minimal: 3 instances maximum per stationery piece"
+    ],
+    "compatibility": {
+      "prohibited_tags": ["architectural", "restrained", "cool"],
+      "required_tags": [],
+      "notes": "Soft Romantic Garden primary typography"
+    }
+  },
+  {
+    "id": "typo-organic-restrained-01",
+    "name": "EB Garamond + Libre Baskerville",
+    "section": "typography",
+    "axis_tags": {
+      "formality": [1, 3],
+      "mood": "restrained",
+      "shape": "organic",
+      "temperature": "warm"
+    },
+    "heading_font": "EB Garamond",
+    "body_font": "Libre Baskerville",
+    "accent_font": null,
+    "hierarchy_notes": [
+      "EB Garamond 8 (display weight) for event headers — warm and classical",
+      "Libre Baskerville Regular for all body — readable at small sizes",
+      "Avoid italics for body text; reserve italic for names only",
+      "No script accents — warm restraint is the direction"
+    ],
+    "compatibility": {
+      "prohibited_tags": ["architectural", "expressive", "cool"],
+      "required_tags": [],
+      "notes": "Earthy Textural Warmth primary typography"
+    }
+  },
+  {
+    "id": "typo-expressive-01",
+    "name": "Editorial New + Monument Grotesk",
+    "section": "typography",
+    "axis_tags": {
+      "formality": [2, 4],
+      "mood": "expressive",
+      "shape": "architectural",
+      "temperature": "neutral"
+    },
+    "heading_font": "Editorial New",
+    "body_font": "Monument Grotesk",
+    "accent_font": null,
+    "hierarchy_notes": [
+      "Editorial New Italic Ultralight for names and key statements — fashion-forward",
+      "Editorial New Regular for supporting headers",
+      "Monument Grotesk for all detail text — strong and industrial",
+      "Mix sizes aggressively: the visual contrast IS the design"
+    ],
+    "compatibility": {
+      "prohibited_tags": ["organic", "restrained", "warm"],
+      "required_tags": [],
+      "notes": "Bold Graphic Editorial primary typography"
+    }
+  },
+  {
+    "id": "typo-expressive-02",
+    "name": "Freight Display + Inter",
+    "section": "typography",
+    "axis_tags": {
+      "formality": [2, 4],
+      "mood": "expressive",
+      "shape": "balanced",
+      "temperature": "neutral"
+    },
+    "heading_font": "Freight Display Pro",
+    "body_font": "Inter",
+    "accent_font": null,
+    "hierarchy_notes": [
+      "Freight Display Pro Bold Italic for key names — maximum impact at large scale",
+      "Inter Regular for all detail and body text — neutral, contemporary foil",
+      "Use Inter Semibold for dates and venue name — structural anchor",
+      "This pairing reads editorial and modern without being cold"
+    ],
+    "compatibility": {
+      "prohibited_tags": ["restrained", "organic"],
+      "required_tags": [],
+      "notes": "Bold expressive; balanced or architectural shape"
+    }
+  }
+]

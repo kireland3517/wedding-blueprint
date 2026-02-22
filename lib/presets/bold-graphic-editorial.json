@@ -1,0 +1,22 @@
+{
+  "id": "bold-graphic-editorial",
+  "name": "Bold Graphic Editorial",
+  "tagline": "Color-forward, statement, fashion-influenced.",
+  "axisVector": {
+    "formality": 3,
+    "mood": "expressive",
+    "texture": "layered",
+    "temperature": "neutral",
+    "shape": "architectural",
+    "floral_form": "sculptural",
+    "metal": "mixed",
+    "light": "dramatic"
+  },
+  "avoid_summary": [
+    "Safe neutrals-only palettes",
+    "Traditional symmetrical layouts",
+    "Script or ornate calligraphy",
+    "Lush meadow or loose garden florals",
+    "Soft romantic textures"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "soft-romantic-garden",
+  "name": "Soft Romantic Garden",
+  "tagline": "Layered, organic, nostalgic but elevated.",
+  "axisVector": {
+    "formality": 3,
+    "mood": "balanced",
+    "texture": "layered",
+    "temperature": "warm",
+    "shape": "organic",
+    "floral_form": "meadow",
+    "metal": "warm",
+    "light": "airy"
+  },
+  "avoid_summary": [
+    "Harsh contrast or graphic layouts",
+    "Chrome or cool metals",
+    "Geometric rigidity in layouts or signage",
+    "Dry or architectural florals",
+    "Cold-toned palettes"
+  ]
+}

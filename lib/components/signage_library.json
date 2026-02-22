@@ -1,0 +1,154 @@
+[
+  {
+    "id": "sign-arch-cool-01",
+    "name": "Matte Acrylic + Vinyl Type",
+    "section": "signage",
+    "axis_tags": {
+      "shape": "architectural",
+      "texture": "minimal",
+      "metal": "cool"
+    },
+    "materials": ["Matte white acrylic", "Matte black acrylic", "Smoked acrylic"],
+    "lettering_style": "Uppercase sans-serif vinyl lettering or laser engraving",
+    "hardware": ["Brushed silver standoffs", "Chrome rail mounts", "Silver cable hang"],
+    "finishes": ["No decoration", "Single rule line", "Negative space-forward layouts"],
+    "compatibility": {
+      "prohibited_tags": ["organic", "warm", "rich"],
+      "required_tags": [],
+      "notes": "Architectural Minimal signage system"
+    }
+  },
+  {
+    "id": "sign-arch-cool-02",
+    "name": "Frosted Glass + Etching",
+    "section": "signage",
+    "axis_tags": {
+      "shape": "architectural",
+      "texture": "layered",
+      "metal": "cool"
+    },
+    "materials": ["Frosted glass panel", "Clear glass with vinyl backing"],
+    "lettering_style": "Sandblasted etching or precision vinyl — no hand lettering",
+    "hardware": ["Polished chrome clips", "Nickel standoffs"],
+    "finishes": ["Frosted border", "Monogram or crest etched center"],
+    "compatibility": {
+      "prohibited_tags": ["organic", "warm"],
+      "required_tags": [],
+      "notes": "Elevated architectural; formal range"
+    }
+  },
+  {
+    "id": "sign-formal-cool-01",
+    "name": "Black Lacquer Board + Gold Calligraphy",
+    "section": "signage",
+    "axis_tags": {
+      "shape": "balanced",
+      "texture": "rich",
+      "metal": "cool"
+    },
+    "materials": ["Black lacquered wood board", "Matte black panel"],
+    "lettering_style": "Gold metallic calligraphy — formal, centered, symmetrical",
+    "hardware": ["Brass easel (patinated)", "Gold-finish chain hang"],
+    "finishes": ["Gilded edge treatment", "Embossed family crest optional"],
+    "compatibility": {
+      "prohibited_tags": ["minimal", "organic", "restrained"],
+      "required_tags": [],
+      "notes": "Refined Black Tie signage"
+    }
+  },
+  {
+    "id": "sign-formal-warm-01",
+    "name": "Brass Easel + Warm Linen Board",
+    "section": "signage",
+    "axis_tags": {
+      "shape": "balanced",
+      "texture": "layered",
+      "metal": "warm"
+    },
+    "materials": ["Stretched linen canvas", "Natural linen-wrapped board"],
+    "lettering_style": "Warm gold calligraphy or antique brass print — slightly informal script allowed",
+    "hardware": ["Brass easel", "Antique brass ring hang", "Brass corner clips"],
+    "finishes": ["Unfinished linen edges", "Dried floral spray at corner"],
+    "compatibility": {
+      "prohibited_tags": ["minimal", "cool", "architectural"],
+      "required_tags": [],
+      "notes": "Soft Romantic Garden or Earthy Textural Warmth"
+    }
+  },
+  {
+    "id": "sign-organic-warm-01",
+    "name": "Reclaimed Wood + Burned Lettering",
+    "section": "signage",
+    "axis_tags": {
+      "shape": "organic",
+      "texture": "rich",
+      "metal": "warm"
+    },
+    "materials": ["Reclaimed barn wood", "Live-edge wood slab", "Driftwood"],
+    "lettering_style": "Wood burning or hand-painted — organic, slightly irregular baseline acceptable",
+    "hardware": ["Jute rope hang", "Leather cord tie", "Wooden peg"],
+    "finishes": ["Raw unfinished wood", "Light beeswax seal", "Dried moss or herb attachment"],
+    "compatibility": {
+      "prohibited_tags": ["architectural", "cool", "minimal", "expressive"],
+      "required_tags": [],
+      "notes": "Earthy Textural Warmth; low formality"
+    }
+  },
+  {
+    "id": "sign-organic-warm-02",
+    "name": "Linen Fabric Scroll + Calligraphy",
+    "section": "signage",
+    "axis_tags": {
+      "shape": "organic",
+      "texture": "layered",
+      "metal": "warm"
+    },
+    "materials": ["Raw linen fabric", "Muslin", "Vintage lace-edge fabric"],
+    "lettering_style": "Ink calligraphy directly on fabric — imperfect and romantic",
+    "hardware": ["Driftwood or copper rod hang", "Antique brass rings"],
+    "finishes": ["Frayed fabric edges", "Pressed flower application", "Wax drip accent"],
+    "compatibility": {
+      "prohibited_tags": ["architectural", "cool", "minimal"],
+      "required_tags": [],
+      "notes": "Soft Romantic Garden; organic layered"
+    }
+  },
+  {
+    "id": "sign-editorial-mixed-01",
+    "name": "Oversized Black Board + White Block Type",
+    "section": "signage",
+    "axis_tags": {
+      "shape": "architectural",
+      "texture": "layered",
+      "metal": "mixed"
+    },
+    "materials": ["Painted black MDF or plywood", "Black foam board", "Dark acrylic"],
+    "lettering_style": "Bold block capitals, high contrast — no script or traditional calligraphy",
+    "hardware": ["Mixed metal stands", "Industrial pipe frames", "Cable tension mounts"],
+    "finishes": ["Die cut shapes or irregular edges", "Single accent color detail line", "Neon or metallic spray paint accent"],
+    "compatibility": {
+      "prohibited_tags": ["organic", "restrained", "warm"],
+      "required_tags": [],
+      "notes": "Bold Graphic Editorial signage system"
+    }
+  },
+  {
+    "id": "sign-neutral-balanced-01",
+    "name": "White Oak + Black Engraving",
+    "section": "signage",
+    "axis_tags": {
+      "shape": "balanced",
+      "texture": "minimal",
+      "metal": "mixed"
+    },
+    "materials": ["White oak panel", "Birch plywood", "Pale ash wood"],
+    "lettering_style": "Laser engraving or precision vinyl — clean, not ornate",
+    "hardware": ["Mixed metal easel", "Matte black clips", "Natural wood stand"],
+    "finishes": ["Natural wood grain visible", "Matte finish only", "No extra embellishment"],
+    "compatibility": {
+      "prohibited_tags": ["rich", "expressive"],
+      "required_tags": [],
+      "notes": "Neutral versatile; balanced formality"
+    }
+  }
+]

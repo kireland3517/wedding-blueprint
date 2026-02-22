@@ -1,0 +1,22 @@
+{
+  "id": "earthy-textural-warmth",
+  "name": "Earthy Textural Warmth",
+  "tagline": "Material-driven, tactile, grounded.",
+  "axisVector": {
+    "formality": 2,
+    "mood": "balanced",
+    "texture": "rich",
+    "temperature": "warm",
+    "shape": "organic",
+    "floral_form": "meadow",
+    "metal": "warm",
+    "light": "layered"
+  },
+  "avoid_summary": [
+    "Ultra-gloss or high-shine finishes",
+    "Sterile white minimalism",
+    "Cool or silver metals",
+    "Architectural or geometric layouts",
+    "Formal symmetrical florals"
+  ]
+}

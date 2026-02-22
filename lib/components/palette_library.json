@@ -1,0 +1,278 @@
+[
+  {
+    "id": "pal-cool-restrained-01",
+    "name": "Slate & Stone Tonal",
+    "section": "palette",
+    "axis_tags": {
+      "temperature": "cool",
+      "mood": "restrained",
+      "formality": [2, 4]
+    },
+    "contrast_level": "low",
+    "swatches": ["#8A9BA8", "#C0C4C8", "#E8EBEC", "#6B7B86", "#D4D8DB"],
+    "usage_rules": [
+      "Use slate as the dominant surface color on stationery",
+      "Stone as a secondary on linens and signage backgrounds",
+      "Pale grey reserved for negative space and paper stock",
+      "Avoid introducing warm undertones — keep all applications strictly cool"
+    ],
+    "compatibility": {
+      "prohibited_tags": ["warm", "expressive"],
+      "required_tags": [],
+      "notes": "Architectural Minimal anchor palette"
+    }
+  },
+  {
+    "id": "pal-cool-restrained-02",
+    "name": "Platinum & Charcoal",
+    "section": "palette",
+    "axis_tags": {
+      "temperature": "cool",
+      "mood": "restrained",
+      "formality": [3, 5]
+    },
+    "contrast_level": "medium",
+    "swatches": ["#1C1C1E", "#8E8E93", "#D1D1D6", "#F2F2F7", "#2C2C2E"],
+    "usage_rules": [
+      "Charcoal anchors typography and hard surface materials",
+      "Platinum applies to foil accents and metal hardware",
+      "Near-white reserved for paper stock and linen",
+      "High formality — do not pair with rustic or organic textures"
+    ],
+    "compatibility": {
+      "prohibited_tags": ["warm", "expressive", "organic"],
+      "required_tags": [],
+      "notes": "Black Tie or Architectural Minimal; requires formality ≥3"
+    }
+  },
+  {
+    "id": "pal-cool-balanced-01",
+    "name": "Dusty Blue & Ivory",
+    "section": "palette",
+    "axis_tags": {
+      "temperature": "cool",
+      "mood": "balanced",
+      "formality": [2, 4]
+    },
+    "contrast_level": "medium",
+    "swatches": ["#7B9EB5", "#B8CDD9", "#E8E4DC", "#4A6B7C", "#F5F2EE"],
+    "usage_rules": [
+      "Dusty blue leads on florals, stationery headers, and accent linens",
+      "Ivory grounds tablescapes and ceremony backdrops",
+      "Deep teal used sparingly as an anchor in signage only",
+      "Avoid bright white — always use warm ivory as the neutral base"
+    ],
+    "compatibility": {
+      "prohibited_tags": ["warm", "restrained"],
+      "required_tags": [],
+      "notes": "Soft blue-ivory; pairs with balanced or organic shapes"
+    }
+  },
+  {
+    "id": "pal-cool-expressive-01",
+    "name": "Midnight & Cobalt",
+    "section": "palette",
+    "axis_tags": {
+      "temperature": "cool",
+      "mood": "expressive",
+      "formality": [2, 4]
+    },
+    "contrast_level": "high",
+    "swatches": ["#0A1628", "#1B3A8A", "#4A6CF7", "#E8EBEC", "#C8D4F0"],
+    "usage_rules": [
+      "Midnight as the dominant dark ground — stationery, signage, linens",
+      "Cobalt applied as a bold accent: foil, florals, graphic elements",
+      "Near-white used only for typography on dark grounds",
+      "This is a high-contrast palette — commit fully or it reads muddled"
+    ],
+    "compatibility": {
+      "prohibited_tags": ["warm", "restrained", "minimal"],
+      "required_tags": [],
+      "notes": "Bold Graphic Editorial; cool expressive"
+    }
+  },
+  {
+    "id": "pal-warm-restrained-01",
+    "name": "Cream & Terracotta Tonal",
+    "section": "palette",
+    "axis_tags": {
+      "temperature": "warm",
+      "mood": "restrained",
+      "formality": [1, 3]
+    },
+    "contrast_level": "low",
+    "swatches": ["#F5E6D0", "#C4714A", "#8B7355", "#D4B896", "#E8D5C0"],
+    "usage_rules": [
+      "Cream as the primary background for all print and linen applications",
+      "Terracotta used as a punctuation color — florals, wax seals, ribbon",
+      "Brown-taupe grounds ceramics and natural fiber materials",
+      "Avoid introducing cool tones — all applications stay within the warm register"
+    ],
+    "compatibility": {
+      "prohibited_tags": ["cool", "expressive"],
+      "required_tags": [],
+      "notes": "Earthy Textural Warmth anchor"
+    }
+  },
+  {
+    "id": "pal-warm-restrained-02",
+    "name": "Ochre & Sage",
+    "section": "palette",
+    "axis_tags": {
+      "temperature": "warm",
+      "mood": "restrained",
+      "formality": [1, 3]
+    },
+    "contrast_level": "low",
+    "swatches": ["#C8963E", "#8B9F7E", "#E8DCC8", "#5C6B4A", "#F2EAD8"],
+    "usage_rules": [
+      "Ochre as the lead color for florals and print accents",
+      "Sage applied to foliage, linen, and secondary signage",
+      "Warm linen as the neutral base for all surfaces",
+      "Earthy and grounded — avoid any cool or metallic accents"
+    ],
+    "compatibility": {
+      "prohibited_tags": ["cool", "expressive", "architectural"],
+      "required_tags": [],
+      "notes": "Earthy Textural Warmth; low formality variant"
+    }
+  },
+  {
+    "id": "pal-warm-balanced-01",
+    "name": "Blush & Antique Rose",
+    "section": "palette",
+    "axis_tags": {
+      "temperature": "warm",
+      "mood": "balanced",
+      "formality": [2, 4]
+    },
+    "contrast_level": "medium",
+    "swatches": ["#E8C4B8", "#C8937A", "#F5EDE8", "#8B5E52", "#D4A090"],
+    "usage_rules": [
+      "Blush dominates soft surfaces — paper, linen, ceremony florals",
+      "Antique rose deepens florals and provides visual anchor",
+      "Off-white cream grounds typography and negative space",
+      "Pairs beautifully with warm brass and aged gold metal accents"
+    ],
+    "compatibility": {
+      "prohibited_tags": ["cool", "restrained"],
+      "required_tags": [],
+      "notes": "Soft Romantic Garden anchor palette"
+    }
+  },
+  {
+    "id": "pal-warm-expressive-01",
+    "name": "Saffron & Burgundy",
+    "section": "palette",
+    "axis_tags": {
+      "temperature": "warm",
+      "mood": "expressive",
+      "formality": [2, 4]
+    },
+    "contrast_level": "high",
+    "swatches": ["#C8620A", "#8B1A2E", "#F2C46A", "#1C0A08", "#F5E6D0"],
+    "usage_rules": [
+      "Saffron leads on florals and graphic accent elements",
+      "Burgundy anchors dark grounds and dramatic signage",
+      "Warm cream reserved for paper and light typography",
+      "High energy — confident commitment required; do not dilute with grey"
+    ],
+    "compatibility": {
+      "prohibited_tags": ["cool", "restrained", "minimal"],
+      "required_tags": [],
+      "notes": "Bold warm expressive; high contrast"
+    }
+  },
+  {
+    "id": "pal-neutral-restrained-01",
+    "name": "Ivory & Warm Taupe",
+    "section": "palette",
+    "axis_tags": {
+      "temperature": "neutral",
+      "mood": "restrained",
+      "formality": [1, 5]
+    },
+    "contrast_level": "low",
+    "swatches": ["#F5F0E8", "#C9BFB0", "#A89B8A", "#E8E4DC", "#7A6E62"],
+    "usage_rules": [
+      "Ivory anchors all paper and linen surfaces",
+      "Taupe provides depth on signage and secondary surfaces",
+      "Warm grey grounds without introducing temperature",
+      "Universal foundation palette — pairs with any metal temperature"
+    ],
+    "compatibility": {
+      "prohibited_tags": ["expressive"],
+      "required_tags": [],
+      "notes": "Versatile neutral base; works across all formality levels"
+    }
+  },
+  {
+    "id": "pal-neutral-balanced-01",
+    "name": "Warm White & Graphite",
+    "section": "palette",
+    "axis_tags": {
+      "temperature": "neutral",
+      "mood": "balanced",
+      "formality": [2, 5]
+    },
+    "contrast_level": "medium",
+    "swatches": ["#F8F6F2", "#4A4A4A", "#9E9E9E", "#E0DDD8", "#2A2A2A"],
+    "usage_rules": [
+      "Warm white as primary background across all applications",
+      "Graphite for typography, rule lines, and hardware",
+      "Mid-grey softens transitions between light and dark elements",
+      "Clean and modern — avoids the coldness of pure black and white"
+    ],
+    "compatibility": {
+      "prohibited_tags": ["restrained"],
+      "required_tags": [],
+      "notes": "Refined neutral for balanced or architectural shapes"
+    }
+  },
+  {
+    "id": "pal-neutral-expressive-01",
+    "name": "Ink & Acid Green",
+    "section": "palette",
+    "axis_tags": {
+      "temperature": "neutral",
+      "mood": "expressive",
+      "formality": [2, 4]
+    },
+    "contrast_level": "high",
+    "swatches": ["#1A1A1A", "#8AC240", "#F5F5F0", "#3D3D3D", "#C8E87A"],
+    "usage_rules": [
+      "Ink as the dominant ground — bold, editorial, uncompromising",
+      "Acid green as the singular accent color — florals, type, seals",
+      "Near-white for any reversed typography only",
+      "Bold Graphic Editorial territory — must commit to the contrast"
+    ],
+    "compatibility": {
+      "prohibited_tags": ["restrained", "warm", "organic"],
+      "required_tags": [],
+      "notes": "Bold Graphic Editorial; neutral-temperature expressive"
+    }
+  },
+  {
+    "id": "pal-cool-balanced-02",
+    "name": "Deep Jewel & Champagne",
+    "section": "palette",
+    "axis_tags": {
+      "temperature": "cool",
+      "mood": "balanced",
+      "formality": [4, 5]
+    },
+    "contrast_level": "high",
+    "swatches": ["#2C1B47", "#8B5CF6", "#E8D5A3", "#1A0D2E", "#F5EED8"],
+    "usage_rules": [
+      "Deep jewel dominates ceremony and reception linens",
+      "Purple accent applied to florals and foil details",
+      "Champagne reserved for paper stock and metal hardware only",
+      "Formal and dramatic — suited to evening or candlelit settings"
+    ],
+    "compatibility": {
+      "prohibited_tags": ["warm", "restrained", "minimal"],
+      "required_tags": [],
+      "notes": "Refined Black Tie jewel variant; high formality required"
+    }
+  }
+]
