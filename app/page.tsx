@@ -1,4 +1,8 @@
+import { fetchOneEntry } from "@builder.io/sdk-react";
+import { RenderBuilderContent } from "../components/builder/BuilderContent";
 import Link from "next/link";
+
+const API_KEY = process.env.NEXT_PUBLIC_BUILDER_API_KEY!;
 
 const LANES = [
   { name: "Architectural Minimal", color: "#8A9BA8" },
@@ -8,7 +12,7 @@ const LANES = [
   { name: "Bold Graphic Editorial", color: "#1A1A1A" },
 ];
 
-export default function HomePage() {
+function StaticLanding() {
   return (
     <main
       className="min-h-screen flex flex-col items-center justify-center px-6 py-20"
@@ -80,3 +84,19 @@ export default function HomePage() {
     </main>
   );
 }
+
+export default async function HomePage() {
+  const content = await fetchOneEntry({
+    model: "page",
+    apiKey: API_KEY,
+    userAttributes: { urlPath: "/" },
+  });
+
+  if (content) {
+    return <RenderBuilderContent content={content} model="page" />;
+  }
+
+  return <StaticLanding />;
+}
+
+export const revalidate = 60;

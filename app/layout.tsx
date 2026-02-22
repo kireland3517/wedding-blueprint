@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import BuilderRegistry from "../components/builder/BuilderRegistry";
 
 export const metadata: Metadata = {
   title: "Wedding Blueprint Generator",
@@ -13,7 +14,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body>
+        <BuilderRegistry />
+        {children}
+      </body>
     </html>
   );
 }
