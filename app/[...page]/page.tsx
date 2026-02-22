@@ -5,7 +5,7 @@ import { notFound } from "next/navigation";
 const API_KEY = process.env.NEXT_PUBLIC_BUILDER_API_KEY!;
 
 interface Props {
-  params: Promise<{ page?: string[] }>;
+  params: Promise<{ page: string[] }>;
 }
 
 export default async function BuilderPage({ params }: Props) {
